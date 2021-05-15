@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rdritik
+- 👋 Hi, I’m Ritik Kumar
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Full Stack Web Development Projects
